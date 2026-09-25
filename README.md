@@ -27,5 +27,5 @@ Náhodné ID: a0506026-ae84-420f-a124-eb4767fc39ba
 ```
 
 ### Bonus
-
+![Moje virtuální Linuxová laboratoř](./Images/muj-linux-server.png)
 použitý prompt v ChatGPT: vytvoř obrázek na téma linux, git, vagrant a virtuální servery
