@@ -1,6 +1,6 @@
 ## Moje řešení
 
-### Zvolená distribuce
+### Distribuce a verze
 
 Debian GNU/Linux 13 (trixie)
 
@@ -25,3 +25,7 @@ Virtualizace: oracle
 Čas UTC: 2026-09-25T06:36:55Z
 Náhodné ID: a0506026-ae84-420f-a124-eb4767fc39ba
 ```
+
+### Bonus
+
+použitý prompt v ChatGPT: vytvoř obrázek na téma linux, git, vagrant a virtuální servery
